@@ -6,3 +6,4 @@
     <li>Download the latest version of chromerdriver from http://chromedriver.chromium.org/downloads and place it in this folder</li>
 </ol>
 
+![Demo](bot_demo.gif)
